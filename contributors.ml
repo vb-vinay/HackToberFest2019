@@ -1,8 +1,8 @@
 # Contributers
-<!-- Example:
-[Your Name](http://github.com/YourUserName)
+1:
+Aditi T(http://github.com/mystic-potato)
 -->
-
+It's my first Hacktoberfest!
 
 <!-- Edit Below This Line -->
 

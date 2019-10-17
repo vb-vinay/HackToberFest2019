@@ -6,7 +6,7 @@
 2. Press the edit button (pencil)
 3. Add your name and link
 4. Then create your pull request.
-4.5 A star would be nice
+4.5. A star would be nice
 5. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 5.5. Do others if your not done yet. Check others.md
 6. Wait for your shirt.

@@ -1,13 +1,15 @@
 # Contributers
-1:
-Aditi T(http://github.com/mystic-potato)
+<!-- Example:
+[Your Name](http://github.com/YourUserName)
 -->
-It's my first Hacktoberfest!
 
-<!-- Edit Below This Line -->
+
+<!-- Edit Below This Line and At the bottom-->
 
 
 [UnknownHacker1125](http://github.com/UnknownHacker1125)
+
+Aditi T(http://github.com/mystic-potato)
 [sljtheultima](http://github.com/sljtheultima)
 [heemza](http://github.com/heemza)
 [AgentEnder](http://github.com/agentender)
